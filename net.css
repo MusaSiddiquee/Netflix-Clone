@@ -1,0 +1,312 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: roboto, sans-serif;
+}
+
+.default {
+    width: 155px;
+    height: 110px;
+    fill: #E50914;
+}
+
+.in {
+    border: solid 1px transparent;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+    background-color: #E50914;
+    color: aliceblue;
+}
+
+.both-main {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.netflix {
+    padding-left: 130px;
+}
+
+.sign-in {
+    padding-right: 130px;
+    padding-top: 35px;
+}
+
+.img-all-main {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://assets.nflxext.com/ffe/siteui/vlv3/cacfadb7-c017-4318-85e4-7f46da1cae88/81fe52dd-5b43-4b5c-975a-436256a1778d/PK-en-20240603-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 1588px;
+}
+
+.main {
+    color: #fff;
+}
+
+.un h1 {
+    font-size: 50px;
+}
+
+.email {
+    height: 50px;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #e3e3e3;
+    border: solid 1px transparent;
+    border-radius: 4px;
+}
+
+.get {
+    height: 50px;
+    width: 240px;
+    background-color: #E50914;
+    border: solid 1px transparent;
+    border-radius: 4px;
+}
+
+h3 {
+    color: aliceblue;
+}
+
+.watch {
+    margin-left: 330px;
+    margin-top: 20px;
+}
+
+.ready {
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.li {
+    margin-left: 160px;
+    margin-top: 20px;
+}
+
+.main {
+    margin-left: 300px;
+    margin-top: 200px;
+}
+
+.w {
+    line-height: 37px;
+    margin-top: 10px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.enjoy {
+    color: #fff;
+    font-size: 50px;
+}
+
+.sec-main {
+    border: solid 1px black;
+    height: 450px;
+    width: 1588px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+    display: flex;
+}
+
+.sec {
+    margin: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.video {}
+
+.se-main {
+    border: solid 1px black;
+    height: 550px;
+    width: 1588px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+    display: flex;
+}
+
+.your {
+    color: #fff;
+    margin-top: 170px;
+}
+
+.enjo {
+    font-size: 50px;
+}
+
+.save {
+    font-size: 25px;
+}
+
+.sec-mai {
+    border: solid 1px black;
+    height: 300px;
+    width: 1387px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+    color: #fff;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+h3 {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.s-main {
+    border: solid 1px black;
+    height: 550px;
+    width: 1588px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+    display: flex;
+}
+
+.kid {
+    margin-left: 20px;
+}
+
+.kids {
+    color: #fff;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.creat {
+    font-size: 50px;
+}
+
+.crea {
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.s-l {
+    border: solid 1px black;
+    height: 50px;
+    width: 1200px;
+    background-color: #2D2D2D;
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 130px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-m {
+    border: solid 1px black;
+    height: 1000px;
+    width: 1588px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+}
+
+.grey {
+    font-size: 55px;
+    color: #fff;
+    margin-left: 370px;
+    margin-top: 30px;
+}
+
+.is {
+    color: #fff;
+    font-size: 30px;
+}
+
+.fa-plus {
+    color: #fff;
+    font-size: 40px;
+    padding-right: 30px;
+}
+
+.butt {
+    margin-top: 30px;
+    margin-left: 450px;
+}
+
+.emal {
+    height: 50px;
+    width: 300px;
+    background-color: #0F0F0F;
+    color: #e3e3e3;
+    border: solid 1px transparent;
+    border-radius: 4px;
+    margin-right: 20px;
+}
+
+.t {
+    margin-left: 330px;
+}
+
+.ge {
+    padding-bottom: 5px;
+}
+
+.footr-main {
+    border: solid 1px black;
+    height: 350px;
+    width: 1588px;
+    background-color: black;
+    border-top: solid 8px rgb(58, 58, 58);
+}
+
+.al-main {
+    margin-left: 300px;
+}
+
+.footr {
+    margin-top: 50px;
+    margin-left: 200px;
+    color: #9f9c9c;
+    display: flex;
+}
+
+.ull {
+    margin-bottom: 15px;
+}
+
+.ul {
+    background-color: #313030;
+    height: 30px;
+    width: 100px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    color: rgb(199, 206, 206);
+}
+
+.u {
+    margin-bottom: 15px;
+}
+
+.help {
+    margin-bottom: 14px;
+    margin-left: 150px;
+}
+
+.second-ul {
+    margin-top: 50px;
+}
+
+.hel {
+    margin-bottom: 14px;
+    margin-left: 150px;
+}
+
+.he {
+    margin-bottom: 14px;
+    margin-left: 150px;
+}
